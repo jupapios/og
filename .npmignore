@@ -1,0 +1,8 @@
+.npmignore
+.gitignore
+
+README.md
+
+examples/
+test/
+node_modules/

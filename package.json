@@ -7,10 +7,12 @@
   "repository": {
     "url": "https://github.com/gotik/og"
   },
-  "dependencies": {},
+  "dependencies": {
+		"jsdom": "*"
+	},
   "devDependencies": {},
   "optionalDependencies": {},
-	"main": "lib/og.js",
+	"main": "index",
   "engines": {
     "node": "*"
   }
