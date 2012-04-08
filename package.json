@@ -1,0 +1,16 @@
+{
+  "author": "Juan Pablo Pinilla <juan@kamikazepanda.com> (http://kamikazepanda.com)",
+  "name": "og",
+  "description": "Open Graph",
+  "version": "0.0.0",
+  "homepage": "http://gotik.github.com/og",
+  "repository": {
+    "url": "https://github.com/gotik/og"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
