@@ -1,4 +1,4 @@
-var og = require('../index');
+var og = require('og');
 
 var OpenGraph = og.OpenGraph;
 
